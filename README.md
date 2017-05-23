@@ -2,8 +2,6 @@
 
 Workshop run by Hasib Sarvari for Hacker Pals
 
-Hahahahahaha, we are the champions forever!
-
 In this awesome workshop we cover the basics of HTML5 & CSS3 to get you started on your next project
 
 All workshop resources will be in the resources folder. Final website will in the project website.
